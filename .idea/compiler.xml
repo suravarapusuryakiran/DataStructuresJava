@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="CircularLinkedList" target="" />
+      <module name="DataStructures" target="" />
+      <module name="DoubleLinkedList" target="" />
+      <module name="Dynamic array" target="" />
+      <module name="queue" target="" />
+      <module name="Singular linked list" target="" />
+      <module name="software engineering and programming basics project" target="" />
+      <module name="solutions" target="" />
+      <module name="sorting" target="" />
+      <module name="Stack" target="" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

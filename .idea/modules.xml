@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularDoubleLinkedList/CircularDoubleLinkedList.iml" filepath="$PROJECT_DIR$/CircularDoubleLinkedList/CircularDoubleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telusko Single linked list/DataStructures.iml" filepath="$PROJECT_DIR$/Telusko Single linked list/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" filepath="$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic array/Dynamic array.iml" filepath="$PROJECT_DIR$/Dynamic array/Dynamic array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singular linked list/Singular linked list.iml" filepath="$PROJECT_DIR$/Singular linked list/Singular linked list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software engineering and programming basics project.iml" filepath="$PROJECT_DIR$/software engineering and programming basics project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/solutions.iml" filepath="$PROJECT_DIR$/solutions/solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/sorting.iml" filepath="$PROJECT_DIR$/solutions/sorting.iml" />
+    </modules>
+  </component>
+</project>
